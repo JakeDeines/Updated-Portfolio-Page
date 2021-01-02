@@ -7,7 +7,7 @@ In this project I created a Portfolio Page Showcasing 3 of my homeworks and 1 pr
 ## Deployed Website
 https://jakedeines.github.io/Updated-Portfolio-Page/.
 ## Github Repository URL
-
+https://github.com/JakeDeines/Updated-Portfolio-Page
 
 ## Deployed Website Image
 ![portfolio pic](https://user-images.githubusercontent.com/67669417/103450240-2a01c180-4c68-11eb-8705-363659de2376.PNG)
